@@ -63,7 +63,7 @@ snake-game/
 
 | Gameplay | Game Over | Screen-Wrap |
 |---|---|---|
-| ![Gameplay](image-4.png) | ![Game Over](image-1-1.png) | ![Screen-Wrap](image-2-1.png) |
+| ![alt text](image-2-1.png) | ![alt text](image-1-1.png) | ![alt text](image.png)|
 
 ---
 
