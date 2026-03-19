@@ -1,0 +1,18 @@
+# Byte-compiled / optimized / DLL files (ملفات البايت كود)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyCharm settings (إعدادات البرنامج)
+.idea/
+*.iml
+
+# Environments (البيئة الافتراضية)
+.venv/
+.venv1/
+env/
+venv/
+ENV/
+
+# Project specific (ملفات السكور الشخصية لو مش عايز ترفعها)
+score.txt
