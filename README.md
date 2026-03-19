@@ -26,6 +26,8 @@ This project was a milestone in my programming journey — a deep dive into **Ob
 
 ## Project Structure
 
+![alt text](snake_game_architecture-1.svg)
+
 ```
 snake-game/
 ├── Collision Version/
